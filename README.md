@@ -108,3 +108,13 @@ Keep these tabs open during the exam to quickly copy and paste boilerplate code.
 * **Bootstrap (Frontend Styling & Forms)**
   * Quick Start Template: `https://getbootstrap.com/docs/5.3/getting-started/introduction/`
   * Form Components: `https://getbootstrap.com/docs/5.3/forms/overview/`
+
+  Open MongoDB Compass from your Windows Start Menu.
+
+In the URI connection box, paste:
+mongodb://localhost:27017
+(Alternatively: mongodb://127.0.0.1:27017)
+
+Click Connect.
+
+Click your database name (e.g., SmartLibrarySystem1DB) on the left to view your collections and JSON documents.
